@@ -18,4 +18,4 @@ mvn package
 ```
 
 ### clases
-![alt text](image.png)
+![Imagen de clases](./clases.svg)
