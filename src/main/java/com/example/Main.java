@@ -18,6 +18,8 @@ import com.example.view.MateriaView;
 
 public class Main {
     public static void main(String[] args) {
+        DatabaseConnection.connect();
+
         Materia materia = new Materia(1, "Programación", 4);
         Docente docente = new Docente(1, "María Pérez", "Ingeniería de Software");
         Estudiante estudiante = new Estudiante(1, "Juan", "García", "juan.garcia@example.com");
