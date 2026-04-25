@@ -10,6 +10,10 @@ Este repositorio contiene la aplicación de gestión de clases, con controladore
 - Jennifer Villa
 - Samir Hurtado
 
+## Diagrama de clases
+
+![Diagrama de clases](docs/diagrama_clases.png)
+
 ## Cómo usar
 
 ```bash
@@ -17,5 +21,3 @@ mvn compile
 mvn package
 ```
 
-### clases
-![Imagen de clases](./clases.svg)
